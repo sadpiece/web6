@@ -1,0 +1,21 @@
+  .table {
+      width: 80%;
+      margin: 30px auto;
+      border-collapse: collapse;
+      font-family: Arial;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .table th, .table td {
+      border: 1px solid #b0bec5;
+      padding: 12px;
+      text-align: center;
+    }
+
+    .table th {
+      background-color: #37474f;
+      color: #ffffff;
+      text-transform: uppercase;
+    }
+
+
